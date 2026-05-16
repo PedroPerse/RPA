@@ -12,8 +12,8 @@ venv/
 env/
 
 # Logs
-logs/*.txt
-logs/*.log
+**/logs/*.txt
+**/logs/*.log
 
 # Playwright
 playwright-report/
