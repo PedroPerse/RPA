@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Logs
+logs/*.txt
+logs/*.log
+
+# Playwright
+playwright-report/
+test-results/
+
+# VS Code (opcional — remova essa linha se quiser subir o launch.json)
+# .vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
