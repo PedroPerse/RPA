@@ -81,7 +81,7 @@ Cada execução grava no arquivo `logs/log_cotacao.txt` no formato:
 | Parâmetro | Padrão | Descrição |
 |---|---|---|
 | `browser_type` | `chromium` | Navegador (`chromium`, `firefox`, `webkit`) |
-| `headless` | `False` | Rodar sem abrir janela |
+| `headless` | `False` | `True` roda sem abrir janela; `False` abre o navegador visível |
 | `search_query` | `cotação dólar hoje` | Termo de pesquisa |
 | `timeout` | `30000` | Timeout em ms para elementos da página |
 | `log_dir` | `logs` | Pasta do arquivo de log |
