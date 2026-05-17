@@ -1,0 +1,101 @@
+BOT VERIFICAÇÃO CNPJ — 17/05/2026 às 00:06:46
+================================================================================
+
+[1/3] CNPJ: 53.113.791/0001-22
+--------------------------------------------------------------------------------
+  CNPJ                               : 53113791000122
+  Razão Social                       : TOTVS S.A.
+  Situação Cadastral                 : ATIVA
+  Descrição Situação                 : ATIVA
+  Data de Abertura                   : 13/12/1983
+  CNAE                               : 62.01-5-01
+  Descrição CNAE                     : Desenvolvimento de programas de computador sob encomenda
+  Natureza Jurídica                  : 204-6
+  Descrição Natureza Jurídica        : Sociedade Anônima Aberta
+  Porte                              : DEMAIS
+  Descrição Porte                    : DEMAIS
+  Logradouro                         : AV BRAZ LEME
+  Número                             : 1000
+  Bairro                             : CASA VERDE
+  Município                          : SAO PAULO
+  UF                                 : SP
+  CEP                                : 02.511-000
+  Telefone                           : (11) 4004-0015
+  E-mail                             : fiscal@totvs.com.br
+  Sócios                             :
+    - DENNIS HERSZKOWICZ (16-Presidente)
+    - GILSOMAR MAIA SEBASTIAO (10-Diretor)
+    - MARCELO EDUARDO SANT ANNA COSENTINO (10-Diretor)
+    - GUSTAVO CARVALHO MENDES (10-Diretor)
+    - GUSTAVO DUTRA BASTOS (10-Diretor)
+    - ALEXANDRE HADDAD APENDINO (10-Diretor)
+    - GUSTAVO AUGUSTO SILVA AVELAR (10-Diretor)
+    - VIVIAN BROGE (10-Diretor)
+  Status: SUCESSO
+
+[2/3] CNPJ: 47.960.950/0001-21
+--------------------------------------------------------------------------------
+  CNPJ                               : 47960950000121
+  Razão Social                       : MAGAZINE LUIZA S/A
+  Nome Fantasia                      : MAGAZINE LUIZA
+  Situação Cadastral                 : ATIVA
+  Descrição Situação                 : ATIVA
+  Data de Abertura                   : 24/10/1966
+  CNAE                               : 47.13-0-04
+  Descrição CNAE                     : Lojas de departamentos ou magazines, exceto lojas francas (Duty free)
+  Natureza Jurídica                  : 204-6
+  Descrição Natureza Jurídica        : Sociedade Anônima Aberta
+  Porte                              : DEMAIS
+  Descrição Porte                    : DEMAIS
+  Logradouro                         : R VOLUNTARIOS DA FRANCA
+  Número                             : 1465
+  Bairro                             : CENTRO
+  Município                          : FRANCA
+  UF                                 : SP
+  CEP                                : 14.400-490
+  Telefone                           : (16) 3711-2002
+  E-mail                             : fiscal.estadual@magazineluiza.com.br
+  Sócios                             :
+    - ANDRE LUIZ DE SOUZA FATALA (10-Diretor)
+    - FREDERICO TRAJANO INACIO RODRIGUES (16-Presidente)
+    - ROBERTO BELLISSIMO RODRIGUES (10-Diretor)
+    - FABRICIO BITTAR GARCIA (10-Diretor)
+    - MARIA ISABEL BONFIM DE OLIVEIRA (10-Diretor)
+  Status: SUCESSO
+
+[3/3] CNPJ: 33.000.167/0001-01
+--------------------------------------------------------------------------------
+  CNPJ                               : 33000167000101
+  Razão Social                       : PETROLEO BRASILEIRO S A PETROBRAS
+  Nome Fantasia                      : PETROBRAS - EDISE
+  Situação Cadastral                 : ATIVA
+  Descrição Situação                 : ATIVA
+  Data de Abertura                   : 28/09/1966
+  CNAE                               : 06.00-0-01
+  Descrição CNAE                     : Extração de petróleo e gás natural
+  Natureza Jurídica                  : 203-8
+  Descrição Natureza Jurídica        : Sociedade de Economia Mista
+  Porte                              : DEMAIS
+  Descrição Porte                    : DEMAIS
+  Logradouro                         : AV REPUBLICA DO CHILE
+  Número                             : 65
+  Bairro                             : CENTRO
+  Município                          : RIO DE JANEIRO
+  UF                                 : RJ
+  CEP                                : 20.031-170
+  Telefone                           : (21) 2166-0000
+  E-mail                             : cc-rfisc@petrobras.com.br
+  Sócios                             :
+    - MAGDA MARIA DE REGINA CHAMBRIARD (16-Presidente)
+    - SYLVIA MARIA COUTO DOS ANJOS (10-Diretor)
+    - CLAUDIO ROMEO SCHLOSSER (10-Diretor)
+    - RICARDO WAGNER DE ARAUJO (10-Diretor)
+    - FERNANDO SABBI MELGAREJO (10-Diretor)
+    - RENATA FARIA RODRIGUES BARUZZI LOPES (10-Diretor)
+    - ANGELICA GARCIA COBAS LAUREANO (10-Diretor)
+    - WILLIAM FRANCA DA SILVA (10-Diretor)
+    - CLARICE COPPETTI (10-Diretor)
+  Status: SUCESSO
+
+================================================================================
+TOTAL: 3/3 consulta(s) com sucesso
