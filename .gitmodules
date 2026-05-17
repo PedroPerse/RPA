@@ -1,0 +1,6 @@
+[submodule "bots/bot_cotacao_dolar"]
+	path = bots/bot_cotacao_dolar
+	url = https://github.com/PedroPerse/bot-cotacao-dollar.git
+[submodule "bots/bot_verifica_cnpj"]
+	path = bots/bot_verifica_cnpj
+	url = https://github.com/PedroPerse/bot-verifica-cnpj.git
