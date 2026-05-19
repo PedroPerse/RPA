@@ -13,6 +13,7 @@ Cada bot é um projeto independente com seu próprio repositório, instalação 
 | **Bot Cotação Dólar** | Captura a cotação do dólar (USD → BRL) via Google usando Playwright | [bot-cotacao-dollar](https://github.com/PedroPerse/bot-cotacao-dollar) |
 | **Bot Verificação CNPJ** | Consulta dados de CNPJs via API da Receita Federal (sem CAPTCHA) | [bot-verifica-cnpj](https://github.com/PedroPerse/bot-verifica-cnpj) |
 | **Bot Download Faturas** | Baixa faturas em PDF do e-mail (Gmail/Outlook) filtrando por vencimento | [download-de-faturas-email](https://github.com/PedroPerse/download-de-faturas-email) |
+| **Bot Preenchimento Formulário** | Preenche formulários web automaticamente a partir de uma planilha Excel | [bot-preenchimento-formulario](https://github.com/PedroPerse/bot-preenchimento-formulario) |
 
 ---
 
