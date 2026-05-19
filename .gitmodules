@@ -4,3 +4,6 @@
 [submodule "bots/bot_verifica_cnpj"]
 	path = bots/bot_verifica_cnpj
 	url = https://github.com/PedroPerse/bot-verifica-cnpj.git
+[submodule "bots/bot_download_faturas"]
+	path = bots/bot_download_faturas
+	url = https://github.com/PedroPerse/download-de-faturas-email.git
