@@ -7,3 +7,6 @@
 [submodule "bots/bot_download_faturas"]
 	path = bots/bot_download_faturas
 	url = https://github.com/PedroPerse/download-de-faturas-email.git
+[submodule "bots/bot_preenchimento_formulario"]
+	path = bots/bot_preenchimento_formulario
+	url = https://github.com/PedroPerse/bot-preenchimento-formulario.git
