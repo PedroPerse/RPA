@@ -10,3 +10,6 @@
 [submodule "bots/bot_preenchimento_formulario"]
 	path = bots/bot_preenchimento_formulario
 	url = https://github.com/PedroPerse/bot-preenchimento-formulario.git
+[submodule "bots/bot_previsao_tempo"]
+	path = bots/bot_previsao_tempo
+	url = https://github.com/PedroPerse/bot-previsao-tempo.git
