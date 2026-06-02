@@ -14,6 +14,7 @@ Cada bot é um projeto independente com seu próprio repositório, instalação 
 | **Bot Verificação CNPJ** | Consulta dados de CNPJs via API da Receita Federal (sem CAPTCHA) | [bot-verifica-cnpj](https://github.com/PedroPerse/bot-verifica-cnpj) |
 | **Bot Download Faturas** | Baixa faturas em PDF do e-mail (Gmail/Outlook) filtrando por vencimento | [download-de-faturas-email](https://github.com/PedroPerse/download-de-faturas-email) |
 | **Bot Preenchimento Formulário** | Preenche formulários web automaticamente a partir de uma planilha Excel | [bot-preenchimento-formulario](https://github.com/PedroPerse/bot-preenchimento-formulario) |
+| **Bot Previsão do Tempo** | Busca a previsão do dia (mín/máx + detalhes por hora) e envia via WhatsApp Web | [bot-previsao-tempo](https://github.com/PedroPerse/bot-previsao-tempo) |
 
 ---
 
